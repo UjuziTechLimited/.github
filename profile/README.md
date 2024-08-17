@@ -14,11 +14,7 @@ We are a team of diverse consultants specializing in Enterprise Business Solutio
 
 ### 🏢 Industries We Serve
 
-Manufacturing | NGOs | Distribution | Media & Publishing | Government | | Oil & Energy | Financial | Education | Health
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ujuzitech-limited)
-
----
+## Manufacturing | NGOs | Distribution | Media & Publishing | Government | | Oil & Energy | Financial | Education | Health
 
 ## 🚀 Our Services
 
@@ -65,10 +61,13 @@ Manufacturing | NGOs | Distribution | Media & Publishing | Government | | Oil & 
 
 We're always excited to take on new challenges and help businesses thrive in the digital age. Reach out to us through any of the following channels:
 
-📧 Email: info@ujuzitech.com
-🌐 Website: [www.ujuzitech.com](https://www.ujuzitech.com)
-📍 Location: Nairobi, Kenya
-📞 Phone: +254 (0) 733 777 003
+📧 **Email**: info@ujuzitech.com
+
+🌐 **Website**: [www.ujuzitech.com](https://www.ujuzitech.com)
+
+📍 **Location**: Nairobi, Kenya
+
+📞 **Phone**: +254 (0) 733 777 003
 
 ### Connect with us on social media:
 
